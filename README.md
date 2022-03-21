@@ -6,3 +6,5 @@ Customers can be sorted by date joined, first name, last name, or ID.
 Customer info can be edited, and updated to the DB.
 
 Assignment 1 for Comp3601 at BCIT.
+
+Final mark given for assignment: 100%
